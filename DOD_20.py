@@ -316,12 +316,10 @@ def menu():
                                 elif x in ['2','02']:
                                         bd()
                                 elif x in ['3','03']:
-                                        afg()
+                                        npl()
                                 elif x in ['4','04']:
                                         ind()        
-                                 elif x in ['5','05']:
-                                 	   npl()
-                     
+                                
             elif xd in ['3','03']:
                 mm()
                 #create()
